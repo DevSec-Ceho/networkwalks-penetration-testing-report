@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td><strong>Date</strong></td>
-    <td>11 October 2026</td>
+    <td>10th November 2026</td>
   </tr>
   <tr>
     <td><strong>Modules Completed</strong></td>
